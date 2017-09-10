@@ -1,0 +1,2 @@
+# cuccscm
+cuccscm init
